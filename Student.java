@@ -26,7 +26,7 @@ public class Student extends Person {
     }
 
     public static void main(String[] args) {
-        Student s1 = new Student("Edric", 18, "Middlesex College");
+        Student s1 = new Student("Edric", 20, "Middlesex College");
         s1.introduce();
     }
 }
